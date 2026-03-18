@@ -1,81 +1,63 @@
-# Hey there, I'm Oğulcan! 👋
+# 🛡️ Hey there, I'm Oğulcan! 👋 
 
-🎯 A passionate developer on a journey to become a Fullstack Web Developer.  
-💻 I believe that learning is endless and every project is a new adventure!
+### 🚀 Fullstack Developer | Security Enthusiast | Cloud Architect In-the-making
+**Bridging the gap between secure infrastructure and modern web applications.**
 
----
-
-## 🚀 About Me
-
-- 🔥 I am deeply interested in **Fullstack Web Development**, and constantly improving my skills.
-- 🛠️ Technologies I'm working with and excited to master:
-  - Frontend: **HTML5**, **CSS3**, **JavaScript (ES6+)**, **React.js**, **TypeScript**
-  - Backend: **Node.js**, **Express.js**, **SQL**
-- 🎯 My ultimate goal is to build complete, real-world web applications — from backend logic to frontend magic.
-- 🧠 I love learning new technologies, improving existing skills, and challenging myself with new projects.
+I am a dedicated developer operating on **Linux (Debian & RPM ecosystems)**. I don't just write code; I strive to understand the entire lifecycle of a request—from the physical cables and network protocols to the frontend magic. My philosophy is simple: **Master the fundamentals, automate the repetitive, and secure everything.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛰️ Specialized Engineering Path
 
-| Frontend | Backend | Database | Tools |
-|:---|:---|:---|:---|
-| HTML5 | Node.js | MySQL | Git & GitHub |
-| CSS3 | Express.js | PostgreSQL | VS Code |
-| JavaScript | | SQLite | Figma |
-| React.js | | | Postman |
-| TypeScript | | | |
+### 🛡️ Cyber Security & Networking
+* **Status:** 🛠️ *Actively Researching & Building*
+* **Focus:** Developing Python-based reconnaissance tools, understanding OSI Layers, TCP/IP Suite, and analyzing traffic with **Wireshark**.
+* **Current Goal:** Mastering firewall configurations (**UFW/Firewalld**) and SSH hardening.
 
-## 🛠️ Technologies and Tools
+### 🌐 Fullstack Web Development
+* **Status:** ✅ *Proficient & Building Projects*
+* **Frontend:** Crafting responsive UIs with **React.js**, **JavaScript (ES6+)**, and **HTML5/CSS3**.
+* **Backend:** Scalable API design with **Node.js (Express)** and **Bun**.
+* **Databases:** Managing data with **PostgreSQL**, **MySQL**, **MongoDB**, and **Firebase**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
+### ☁️ Cloud & System Architecture
+* **Status:** 📚 *Deep Learning Phase*
+* **Containerization:** Learning to orchestrate environments with **Docker** & **Docker Compose**.
+* **Infrastructure:** Managing **VPS/VDS** instances and configuring **Nginx** reverse proxies.
+* **Linux:** Distro-agnostic administration (Apt for Debian, Dnf for RPM-based systems).
 
 ---
 
-## 🎯 Current Goals
+## 🛠️ Comprehensive Tech Stack
 
-- 📚 Deepen my skills in **React.js** and **TypeScript**.
-- 🗄️ Build fullstack projects using **Node.js** and **SQL databases**.
-- 🚀 Deploy my projects professionally (Vercel, Netlify, GitHub Pages).
-- 🧩 Learn advanced GitHub techniques (branching, pull requests, CI/CD pipelines).
+| **Category** | **Technologies (Mastered & Learning)** |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, **Python (Learning)**, Bash, SQL |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Bun, JWT Auth |
+| **Databases** | **PostgreSQL**, MySQL, **MongoDB**, Firebase, SQLite |
+| **Cloud/DevOps** | **Docker (Learning)**, VPS/VDS, Nginx, Vercel |
+| **Security/OS** | **Linux (Fedora/Ubuntu)**, Nmap, Wireshark (Learning) |
 
 ---
 
-## 🎯 Values I Believe In
+## 🎯 Current Missions (What I'm Hacking Right Now)
+- 🐳 **Dockerizing Everything:** Moving my local projects into isolated containers.
+- 🔐 **Secure Auth Patterns:** Implementing OAuth2 and advanced JWT strategies.
+- 🏗️ **System Recon Tool:** Building a Python library for automated local network audits.
+- 🐚 **Shell Scripting:** Automating my Linux environment setup with Bash.
 
-- **Consistency** > Short bursts of motivation.
-- **Learning by doing** > Only reading theories.
-- **Building real things** > Just following tutorials.
-- **Sharing knowledge** > Growing together.
+---
+
+## 🧠 Engineering Philosophy
+> "I believe in **Environment Isolation**, **Strict Documentation**, and the fact that there is no magic in tech—only layers of logic. I use **nvm**, **Docker**, and **VS Code Profiles** to keep my workspace production-ready."
 
 ---
 
 ## 📫 Let's Connect
-
-- 📧 Email: ogulcan.tekinesl@gmail.com
-- linkediIn:https://www.linkedin.com/in/oğulcan-tekineş-483309268/
-- 🌍 Portfolio (Coming soon!)
+* **LinkedIn:** [Oğulcan Tekineş](https://www.linkedin.com/in/oğulcan-tekineş-483309268/)
+* **Email:** [ogulcan.tekines@gmail.com](mailto:ogulcan.tekinesl@gmail.com)
 
 ---
 
-## 🎮 Fun Facts About Me
-
-- 🎹 I built my own **Piano Kit** project combining passion for music and code!
-- 🎯 I love solving real-world problems with code.
-- 🚀 I'm constantly pushing myself outside my comfort zone.
-- 🌟 I believe **every single line of code** is a step toward becoming who I want to be.
-
----
-
-> **"Learning is a journey, not a destination. Keep building, keep growing!"** 🚀
-
+**"Mastery is not a destination, it's a continuous commit. Keep building!"** 🚀
