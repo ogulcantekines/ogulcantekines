@@ -1,4 +1,4 @@
-# 🛡️ Hey there, I'm Oğulcan! 👋 
+# Hey there, I'm Oğulcan! 👋 
 
 ### 🚀 Fullstack Developer | Security Enthusiast | Cloud Architect In-the-making
 **Bridging the gap between secure infrastructure and modern web applications.**
