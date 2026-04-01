@@ -1,6 +1,6 @@
 # Hey there, I'm Oğulcan! 👋 
 
-### 🚀 Fullstack Developer | Security Enthusiast | Cloud Architect In-the-making
+### Fullstack Developer | Security Enthusiast | Cloud Architect In-the-making
 **Bridging the gap between secure infrastructure and modern web applications.**
 
 I am a dedicated developer operating on **Linux (Debian & RPM ecosystems)**. I don't just write code; I strive to understand the entire lifecycle of a request—from the physical cables and network protocols to the frontend magic. My philosophy is simple: **Master the fundamentals, automate the repetitive, and secure everything.**
@@ -49,7 +49,7 @@ I am a dedicated developer operating on **Linux (Debian & RPM ecosystems)**. I d
 
 ---
 
-## 🧠 Engineering Philosophy
+## Engineering Philosophy
 > "I believe in **Environment Isolation**, **Strict Documentation**, and the fact that there is no magic in tech—only layers of logic. I use **nvm**, **Docker**, and **VS Code Profiles** to keep my workspace production-ready."
 
 ---
