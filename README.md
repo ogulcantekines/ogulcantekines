@@ -56,13 +56,6 @@ Gradually moving toward production-ready infrastructure workflows.
 
 ---
 
-## Philosophy
-
-Environment isolation, thorough documentation, and a ground-up understanding
-of how systems work. No magic — only layers of logic.
-
----
-
 ## Contact
 
 - **LinkedIn:** [Oğulcan Tekineş](https://www.linkedin.com/in/oğulcan-tekineş-483309268/)
