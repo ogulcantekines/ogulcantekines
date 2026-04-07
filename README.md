@@ -1,62 +1,42 @@
 # Oğulcan Tekineş
 
-**Fullstack Developer · Security-Minded Engineer · Cloud Infrastructure Enthusiast**
+**Fullstack Developer · Security-Minded Engineer**
 
-I build and ship end-to-end web applications while maintaining a deep focus on
-the fundamentals: networking, system internals, and secure-by-default practices.
-My goal is to understand every layer of a system — from TCP handshakes to React
-renders — and engineer solutions that are both maintainable and resilient.
+I build end-to-end web applications with a focus on **secure-by-default** practices, networking fundamentals, and maintainable architecture.
 
----
-
-## Areas of Focus
-
-### Fullstack Web Development
-Building production-grade applications with a modern JavaScript stack.
-
-- **Frontend:** React.js, TypeScript, Tailwind CSS, HTML5/CSS3
-- **Backend:** Node.js (Express), Bun, REST API design, JWT Authentication
-- **Databases:** PostgreSQL, MongoDB, MySQL, Firebase, SQLite
-
-### Cybersecurity & Networking
-Developing a practical understanding of offensive and defensive security fundamentals.
-
-- Network reconnaissance with Python and Nmap
-- Traffic analysis with Wireshark; OSI model and TCP/IP internals
-- Linux hardening: SSH configuration, UFW/Firewalld, access control
-
-### Cloud & DevOps
-Gradually moving toward production-ready infrastructure workflows.
-
-- Containerization with Docker and Docker Compose
-- VPS/VDS management, Nginx as a reverse proxy
-- Linux administration across Debian (apt) and RPM-based (dnf) ecosystems
+- **Strongest:** Fullstack + Cybersecurity
+- **Open to:** Full-time, freelance, collaboration
 
 ---
 
-## Tech Stack
+## Tech Stack (Core)
 
 | Category | Technologies |
 |---|---|
 | **Languages** | JavaScript, TypeScript, Python, Bash, SQL |
 | **Frontend** | React.js, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, Bun, JWT |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Firebase, SQLite |
-| **Infrastructure** | Docker, Nginx, VPS/VDS, Vercel |
-| **Security & OS** | Linux (Fedora / Ubuntu), Nmap, Wireshark |
+| **Backend** | Node.js, Express.js, Bun, REST API design, JWT, OAuth2 (concepts), validation, security headers, rate limiting, logging |
+| **Databases** | PostgreSQL, MongoDB, MySQL, SQLite |
+| **Infrastructure** | Docker, Docker Compose, Nginx, VPS/VDS, Vercel, Kubernetes (learning) |
+| **Security & OS** | Linux (Fedora/Ubuntu), Nmap, Wireshark, **Burp Suite**, **Metasploit** |
 
 ---
 
-## Current Projects
+## Featured Projects
+- **MERN Product Store** — Fullstack MERN app  
+  https://github.com/ogulcantekines/MERN-Product_store
 
-- **Network Recon Library** — A Python tool for automated local network auditing
-- **Secure Auth Patterns** — Implementing OAuth2 and hardened JWT flows
-- **Environment Automation** — Bash scripts for reproducible Linux dev setup
-- **Dockerized Workflows** — Containerizing existing projects for portability
+- **PhishingDetector** — Security-focused phishing detection project  
+  https://github.com/ogulcantekines/PhishingDetector
+
+- **DigitDetect** — Digit detection/recognition project  
+  https://github.com/ogulcantekines/DigitDetect
+
+- **WhatsappAutomation** — WhatsApp workflow automation  
+  https://github.com/ogulcantekines/WhatsappAutomation
 
 ---
 
 ## Contact
-
-- **LinkedIn:** [Oğulcan Tekineş](https://www.linkedin.com/in/oğulcan-tekineş-483309268/)
+- **LinkedIn:** https://www.linkedin.com/in/o%C4%9Fulcan-tekine%C5%9F-483309268/
 - **Email:** ogulcan.tekines@gmail.com
