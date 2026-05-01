@@ -23,11 +23,8 @@ I build end-to-end web applications with a focus on **secure-by-default** practi
 ---
 
 ## Featured Projects
-- **MERN Product Store** — Fullstack MERN app  
-  https://github.com/ogulcantekines/MERN-Product_store
-
-- **PhishingDetector** — Security-focused phishing detection project  
-  https://github.com/ogulcantekines/PhishingDetector
+- **MERN ChatApp Store** — Fullstack MERN app  
+  https://github.com/ogulcantekines/ChatApp
 
 - **DigitDetect** — Digit detection/recognition project  
   https://github.com/ogulcantekines/DigitDetect
