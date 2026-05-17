@@ -1,6 +1,6 @@
 # Oğulcan Tekineş
 
-**Cyber-Security(pentesting) Engineer - DevOps & cloud researcher - web devoloper**
+**Cyber-Security(pentesting) Engineer - DevOps & cloud researcher - web developer**
 
 I build end-to-end web applications with a focus on **secure-by-default** practices, networking fundamentals, and maintainable architecture.
 
