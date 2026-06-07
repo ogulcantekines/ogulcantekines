@@ -5,7 +5,7 @@
 I build end-to-end web applications with a focus on **secure-by-default** practices, networking fundamentals, and maintainable architecture.
 
 - **Strongest:** Cybersecurity + Network + Devops
-- **Open to:** Full-time, freelance, collaboration
+- **Open to:** Full-time, freelance,
 
 ---
 
