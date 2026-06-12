@@ -35,5 +35,5 @@ I build end-to-end web applications with a focus on **secure-by-default** practi
 ---
 
 ## Contact
-- **LinkedIn:** https://www.linkedin.com/in/o%C4%9Fulcan-tekine%C5%9F-483309268/
+- **LinkedIn:** https://www.linkedin.com/in/ogulcantekines/
 - **Email:** ogulcan.tekines@gmail.com
