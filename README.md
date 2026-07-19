@@ -1,6 +1,6 @@
 # Oğulcan Tekineş
 
-**Cyber-Security Engineer - DevOps & cloud researcher - web developer -Network**
+**Cyber-Security Engineer - DevOps & cloud researcher - web developer -Network engineer**
 
 I build end-to-end web applications with a focus on **secure-by-default** practices,networking fundamentals,and maintainable architecture.
 
