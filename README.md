@@ -21,18 +21,6 @@ I build end-to-end web applications with a focus on **secure-by-default** practi
 
 ---
 
-## Featured Projects
-- **MERN ChatApp Store** — Fullstack MERN app  
-  https://github.com/ogulcantekines/ChatApp
-
-- **DigitDetect** — Digit detection/recognition project  
-  https://github.com/ogulcantekines/DigitDetect
-
-- **WhatsappAutomation** — WhatsApp workflow automation  
-  https://github.com/ogulcantekines/WhatsappAutomation
-
----
-
 ## Contact
 - **LinkedIn:** https://www.linkedin.com/in/ogulcantekines/
 - **Email:** ogulcan.tekines@gmail.com
