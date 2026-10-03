@@ -16,7 +16,7 @@ I build end-to-end web applications with a focus on **secure-by-default** practi
 | **Languages** | JavaScript, TypeScript, Python, Bash, SQL ,GO ,Rust,C|
 | **Backend** | Node.js, Express.js, PHP, REST API design, JWT, OAuth2 (concepts), validation, security headers, rate limiting, logging |
 | **Databases** | PostgreSQL, MongoDB, MySQL, SQLite |
-| **Infrastructure** | Docker, Docker Compose, Nginx, VPS/VDS, Vercel, Kubernetes (learning) |
+| **Infrastructure** | Docker, CI - CD , Nginx, VPS/VDS, Vercel, Kubernetes (learning) |
 | **Security & OS** | Linux (Fedora/Ubuntu), Nmap, Wireshark, **Burp Suite**, **Metasploit** **nikto** 
 
 ---
