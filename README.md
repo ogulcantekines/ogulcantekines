@@ -18,7 +18,7 @@ I build end-to-end web applications with a focus on **secure-by-default** practi
 | **Databases** | PostgreSQL, MongoDB, MySQL, SQLite |
 | **Infrastructure** | Docker, CI - CD , Nginx, VPS/VDS, Vercel, Kubernetes (learning) |
 | **Security & OS** | Linux (Fedora/Ubuntu), Nmap, Wireshark, **Burp Suite**, **Metasploit** **nikto** 
-| **AI systems** | Models, Training , Fine-Tuning , Llama.cpp , vLLM, Ollama
+| **AI systems** | Models, Training , Fine-Tuning , Llama.cpp , vLLM, Ollama, Unsloth
 
 ---
 
