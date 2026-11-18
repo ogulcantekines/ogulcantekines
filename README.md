@@ -6,7 +6,6 @@ I build end-to-end web applications with a focus on **secure-by-default** practi
 
 - **Strongest:** Cybersecurity + Network + Devops(DevSecOps)
 - **Open to:** Full-time, freelance, part- time
-
 ---
 
 ## Tech Stack (Core)
